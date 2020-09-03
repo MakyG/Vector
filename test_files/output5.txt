@@ -1,0 +1,5 @@
+Vector test program
+Type the default size of array and the size of incrementation.
+Size:
+Incrementation:
+End of file, finishing.

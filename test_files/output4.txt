@@ -1,0 +1,7 @@
+Vector test program
+Type the default size of array and the size of incrementation.
+Size:
+Incrementation:
+myMalloc: allocating 32 bytes, memory allocated 32 bytes
+myFree: releasing 32 bytes, memory allocated 0 bytes
+Memory for vector was not allocated successfully.

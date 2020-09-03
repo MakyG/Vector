@@ -1,0 +1,112 @@
+Vector test program
+Type the default size of array and the size of incrementation.
+Size:
+Incrementation:
+myMalloc: allocating 32 bytes, memory allocated 32 bytes
+myMalloc: allocating 40 bytes, memory allocated 72 bytes
+myRealloc: allocating 80 bytes, memory allocated 152 bytes
+myRealloc: allocating 80 bytes, memory allocated 232 bytes
+Press:
+1 to show the length of vector
+2 to add a new item
+3 to remove an item
+4 to print all items
+5 to find out whether an item is present
+6 to find an item's position
+7 to clear the vector
+8 to fill a portion of the vector with desired value
+9 to create a copy of a vector
+0 to print one item
+anything else to finish.
+Vector length: 20
+Press:
+1 to show the length of vector
+2 to add a new item
+3 to remove an item
+4 to print all items
+5 to find out whether an item is present
+6 to find an item's position
+7 to clear the vector
+8 to fill a portion of the vector with desired value
+9 to create a copy of a vector
+0 to print one item
+anything else to finish.
+Choose the value of an item:
+Press:
+1 to show the length of vector
+2 to add a new item
+3 to remove an item
+4 to print all items
+5 to find out whether an item is present
+6 to find an item's position
+7 to clear the vector
+8 to fill a portion of the vector with desired value
+9 to create a copy of a vector
+0 to print one item
+anything else to finish.
+vector[0]: 0
+vector[1]: 5
+vector[2]: 10
+vector[3]: 15
+vector[4]: 20
+vector[5]: 25
+vector[6]: 30
+vector[7]: 35
+vector[8]: 40
+vector[9]: 45
+vector[10]: 50
+vector[11]: 55
+vector[12]: 60
+vector[13]: 65
+vector[14]: 70
+vector[15]: 75
+vector[16]: 80
+vector[17]: 85
+vector[18]: 90
+vector[19]: 95
+vector[20]: 365
+Press:
+1 to show the length of vector
+2 to add a new item
+3 to remove an item
+4 to print all items
+5 to find out whether an item is present
+6 to find an item's position
+7 to clear the vector
+8 to fill a portion of the vector with desired value
+9 to create a copy of a vector
+0 to print one item
+anything else to finish.
+Choose the value of index to be found: 
+vector[9]: 45
+Press:
+1 to show the length of vector
+2 to add a new item
+3 to remove an item
+4 to print all items
+5 to find out whether an item is present
+6 to find an item's position
+7 to clear the vector
+8 to fill a portion of the vector with desired value
+9 to create a copy of a vector
+0 to print one item
+anything else to finish.
+Choose the value of index to be found: 
+Item at position 500 was not found within the vector.
+Press:
+1 to show the length of vector
+2 to add a new item
+3 to remove an item
+4 to print all items
+5 to find out whether an item is present
+6 to find an item's position
+7 to clear the vector
+8 to fill a portion of the vector with desired value
+9 to create a copy of a vector
+0 to print one item
+anything else to finish.
+End of file, finishing.
+Freeing all allocated memory.
+myFree: releasing 200 bytes, memory allocated 32 bytes
+myFree: releasing 32 bytes, memory allocated 0 bytes
+All allocated memory was freed.
